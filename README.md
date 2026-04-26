@@ -10,17 +10,17 @@ API para controle de saída de materiais, desenvolvida com foco em boas prática
 - Docker
 
 ## 📌 Funcionalidades
-Cadastro de materiais
-Cadastro de usuários
-Registro de saída de materiais
+- Cadastro de materiais
+- Cadastro de usuários
+- Registro de saída de materiais
 
 ## 📚 Objetivo
 
 Projeto desenvolvido para aprimorar conhecimentos em:
 
-Arquitetura em camadas
-DDD (Domain Driven Design)
-Boas práticas de API REST
+- Arquitetura em camadas
+- DDD (Domain Driven Design)
+- Boas práticas de API REST
 
 ## 📦 Como rodar o projeto
 
